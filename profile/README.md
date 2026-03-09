@@ -135,7 +135,7 @@ Banco de Dados (PostgreSQL)
     </td>
     <td align="center">
       <b>Victor Cordeiro</b><br>
-      📱 Desenvolvimento mobile
+      📱 Desenvolvimento mobile / apoio na documentação
     </td>
   </tr>
 </table>
