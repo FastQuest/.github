@@ -127,7 +127,7 @@ Banco de Dados (PostgreSQL)
     </td>
     <td align="center">
       <b>Gabriel Paiva</b><br>
-      📄 Documentação
+      📄 Documentation
     </td>
     <td align="center">
       <b>Guilherme Magarão</b><br>
@@ -139,7 +139,7 @@ Banco de Dados (PostgreSQL)
     </td>
     <td align="center">
       <b>Victor Cordeiro</b><br>
-      📱 Desenvolvimento mobile / apoio na documentação
+      📱 Mobile Developer / helping with documentation
     </td>
   </tr>
 </table>
