@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-fastquest.png" alt="Banner FastQuest" width="100%">
+  <img src="banner.jpeg" alt="Banner FastQuest" width="100%">
 </p>
 
 <div align="center">
