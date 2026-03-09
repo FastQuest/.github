@@ -57,8 +57,6 @@ Nosso objetivo é transformar a forma como estudantes se preparam para a OAB, su
 
 <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
-<img src="https://img.shields.io/badge/GORM-009688?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/Gorilla%20Mux-000000?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
