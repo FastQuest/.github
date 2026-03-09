@@ -115,11 +115,15 @@ Banco de Dados (PostgreSQL)
   <tr>
     <td align="center">
       <b>Anthony Passos</b><br>
-      💻 Backend Developer
+      📱 Mobile Developer
     </td>
     <td align="center">
       <b>Beatriz Calado</b><br>
       🎨 Frontend Developer
+    </td>
+    <td align="center">
+      <b>Dante</b><br>
+      🛠️ Backend Developer
     </td>
     <td align="center">
       <b>Gabriel Paiva</b><br>
