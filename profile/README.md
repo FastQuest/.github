@@ -142,9 +142,7 @@ Banco de Dados (PostgreSQL)
 
 ---
 
-# 🤝 Como Contribuir
-
-1. Faça um **Fork** do projeto
-
-2. Crie uma branch para sua feature
+<div align="center">
+  <sub>Desenvolvido com ❤️ pela equipe FastQuest.</sub>
+</div>
 
