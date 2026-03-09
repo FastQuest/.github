@@ -68,3 +68,83 @@ Nosso objetivo é transformar a forma como estudantes se preparam para a OAB, su
 # 🏗️ Arquitetura do Sistema
 
 O FastQuest utiliza uma arquitetura **web baseada em API REST**.
+
+Frontend (Vue.js)
+↓
+API REST (Golang)
+↓
+Banco de Dados (PostgreSQL)
+
+
+### Componentes
+
+**Frontend**
+- Interface do usuário
+- Renderização dos simulados
+- Dashboard de desempenho
+
+**Backend**
+- Regras de negócio
+- Processamento de respostas
+- Geração de simulados
+
+**Banco de Dados**
+- Armazenamento de questões
+- Histórico de respostas
+- Dados de usuários
+
+---
+
+# 📅 Roadmap de Evolução (ATUALIZAR PARA O ATUAL ESTADO DO PROJEOTO)
+
+| Fase | Status | Descrição |
+|-----|------|------|
+| Fase 1 | ✅ | Estrutura inicial do projeto |
+| Fase 2 | ✅ | Banco de questões |
+| Fase 3 | 🚀 | Sistema de simulados |
+| Fase 4 | 📊 | Dashboard de desempenho |
+| Fase 5 | 🔍 | Sistema de busca avançada |
+| Fase 6 | 🧠 | Recomendação de estudo baseada em desempenho |
+| Fase 7 | 🤖 | Integração com IA para explicação de respostas |
+
+---
+
+# 👥 Nosso Time
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Anthony Passos</b><br>
+      💻 Backend Developer
+    </td>
+    <td align="center">
+      <b>Beatriz Calado</b><br>
+      🎨 Frontend Developer
+    </td>
+    <td align="center">
+      <b>Gabriel Paiva</b><br>
+      📄 Documentação
+    </td>
+    <td align="center">
+      <b>Guilherme Magarão</b><br>
+      🛠️ Fullstack Developer
+    </td>
+    <td align="center">
+      <b>Luiz Henrique Alves</b><br>
+      ⚙️ Backend / Arquitetura
+    </td>
+    <td align="center">
+      <b>Victor Cordeiro</b><br>
+      📱 Desenvolvimento mobile
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🤝 Como Contribuir
+
+1. Faça um **Fork** do projeto
+
+2. Crie uma branch para sua feature
+
