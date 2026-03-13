@@ -139,7 +139,7 @@ Banco de Dados (PostgreSQL)
     </td>
     <td align="center">
       <b>Victor Cordeiro</b><br>
-      📱 Mobile Developer / helping with documentation
+      📱 Mobile Developer / Documentation
     </td>
   </tr>
 </table>
