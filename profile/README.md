@@ -95,7 +95,7 @@ Banco de Dados (PostgreSQL)
 
 ---
 
-# 📅 Roadmap de Evolução (ATUALIZAR PARA O ATUAL ESTADO DO PROJEOTO)
+# 📅 Roadmap de Evolução
 
 | Fase | Status | Descrição |
 |-----|------|------|
